@@ -4,10 +4,12 @@
 
 - On arrive 5 minutes avant le démarrage
 - On prévient si retard
+- Respecter les horaires
 
 ## Communication
 
 
 
 ## Bienveillance
+- Privilégier l'entraide dans le travail
 
