@@ -4,6 +4,7 @@
 
 - On arrive 5 minutes avant le démarrage
 - On prévient si retard
+- Le smartphone en mode silencieux
 
 ## Communication
 
