@@ -10,7 +10,7 @@
 
 
 ## Communication
-
+- si je suis en difficulté sur un sujet j'alerte au plus vite l'équipe pédagogique ou les co-apprenants
 
 
 ## Bienveillance
