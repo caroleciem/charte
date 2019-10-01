@@ -8,6 +8,8 @@
 - Respecter les temps de pause
 - Arriver à l'heure
 - Le smartphone en mode silencieux
+- Respecter le rythme d'apprentissage
+- Respect des pauses
 - J'accepte les différentiels de progression selon les sujets abordés et aide au besoin
 - En cas de problème de transport, je suis le cours de la journée via Discord
 - Il n'a a pas de compétition entre nous, nous sommes une équipe
@@ -18,11 +20,16 @@
 
 ## Communication
 
+
 - si j'arrive en retard je préviens dans le discord
 - si je suis en difficulté sur un sujet j'alerte au plus vite l'équipe pédagogique ou les co-apprenants
+- En cas de problème de transport, je suis le cours de la journée via Discord
+- J'essaie de répondre à toutes les questions mais pas forcément sur place
+- Je n'hesite jamais à poser une question
 - J'essaie de répondre à toutes les questions mais pas forcément sur place
 - Je n'hesite jamais à poser une question
 - Si quelqu'un se sent touché par une taquinerie, il n'hésite pas à le dire plutôt que le garder pour lui
+
 
 
 ## Bienveillance
@@ -31,14 +38,23 @@
 - Privilégier l'entraide dans le travail
 - Il n'y a pas de mauvaise question !
 - Le premier arrivé prépare le café et le thé
+<<<<<<< HEAD
 - Bonne ambiance obligatoire
 - Je n'hésite pas à aider les autres
+- Bienveillance de rigueur !
+- J'assiste autant que faire ce peut mes co-apprenants
+=======
+- On apporte les croissants pour son anniversair
+- J'assiste autant que faire ce peut mes co-apprenant
+>>>>>>> b022ef8ddf4434cf5bc5214e87f9efa5a28e4e19
+- Je partage mes acquis avec les autres membres sans jugement 
+- On apport les croissants pour son anniversaire
+ 
+## Reconnaissance
+
+- je suis reconnaissant quand on me demande de réexpliquer quelque chose
 - Bienveillance de rigueur !
 - J'assiste autant que faire ce peut mes co-apprenants
 - Je partage mes acquis avec les autres membres sans jugement 
 - On apport les croissants pour son anniversaire
 - Le premier arrivé qui boit du café fait le café 
-   
-## Reconnaissance
-
-- je suis reconnaissant quand on me demande de réexpliquer quelque chose
