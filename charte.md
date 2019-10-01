@@ -13,3 +13,4 @@
 ## Bienveillance
 - Privilégier l'entraide dans le travail
 
+- Le premier arrivé prépare le café et le thé
