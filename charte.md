@@ -5,6 +5,8 @@
 - On arrive 5 minutes avant le démarrage
 - On prévient si retard
 - Respecter les horaires
+- Le smartphone en mode silencieux
+
 
 ## Communication
 
@@ -12,5 +14,4 @@
 
 ## Bienveillance
 - Privilégier l'entraide dans le travail
-
 - Le premier arrivé prépare le café et le thé
