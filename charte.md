@@ -24,7 +24,6 @@
 
 - Il n'y a pas de mauvaise question !
 - Le premier arrivé prépare le café et le thé
-<<<<<<< HEAD
 - On apporte les croissants pour son anniversair
 - J'assiste autant que faire ce peut mes co-apprenant
 - Je partage mes acquis avec les autres membres sans jugement 
