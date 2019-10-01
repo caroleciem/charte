@@ -16,6 +16,7 @@
 
 ## Communication
 - si je suis en difficulté sur un sujet j'alerte au plus vite l'équipe pédagogique ou les co-apprenants
+- J'essaie de répondre à toutes les questions mais pas forcément sur place
 - Je n'hesite jamais à poser une question
 
 ## Bienveillance
@@ -26,3 +27,7 @@
 - J'assiste autant que faire ce peut mes co-apprenants
 - Je partage mes acquis avec les autres membres sans jugement 
 - On apport les croissants pour son anniversaire
+   
+## Reconnaissance
+
+- je suis reconnaissant quand on me demande de réexpliquer quelque chose
