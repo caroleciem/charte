@@ -1,3 +1,4 @@
+
 # La charte de bonne conduite de la promo BNP - Renault
 
 ## Respect
@@ -9,6 +10,8 @@
 - Le smartphone en mode silencieux
 - J'accepte les différentiels de progression selon les sujets abordés et aide au besoin
 - En cas de problème de transport, je suis le cours de la journée via Discord
+- je traite mes coequipeiers avec respect et bienveillance
+- on est solidaire
 
 
 ## Communication
