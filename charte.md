@@ -14,12 +14,27 @@
 
 
 ## Communication
+
+- si j'arrive en retard je préviens dans le discord
 - si je suis en difficulté sur un sujet j'alerte au plus vite l'équipe pédagogique ou les co-apprenants
+<<<<<<< HEAD
+- J'essaie de répondre à toutes les questions mais pas forcément sur place
+=======
 - Je n'hesite jamais à poser une question
+>>>>>>> 389f56f7d3889c5b4b4253e498dcd9f8f323eefa
+
 
 ## Bienveillance
 
 - Il n'y a pas de mauvaise question !
 - Le premier arrivé prépare le café et le thé
+- J'assiste autant que faire ce peut mes co-apprenants
+- Je partage mes acquis avec les autres membres sans jugement 
 - On apport les croissants pour son anniversaire
    
+<<<<<<< HEAD
+## Reconnaissance
+
+- je suis reconnaissant quand on me demande de réexpliquer quelque chose
+=======
+>>>>>>> 389f56f7d3889c5b4b4253e498dcd9f8f323eefa
