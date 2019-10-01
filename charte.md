@@ -11,3 +11,4 @@
 
 ## Bienveillance
 
+- Le premier arrivé prépare le café et le thé
