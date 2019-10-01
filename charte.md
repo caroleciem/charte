@@ -7,6 +7,7 @@
 - Respecter les temps de pause
 - Arriver à l'heure
 - Le smartphone en mode silencieux
+- En cas de problème de transport, je suis le cours de la journée via Discord
 
 
 ## Communication
@@ -16,3 +17,5 @@
 ## Bienveillance
 
 - Le premier arrivé prépare le café et le thé
+- On apport les croissants pour son anniversaire
+   
