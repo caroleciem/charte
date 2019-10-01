@@ -17,6 +17,7 @@
 
 ## Bienveillance
 - Privilégier l'entraide dans le travail
+- Il n'y a pas de mauvaise question !
 - Le premier arrivé prépare le café et le thé
 - On apport les croissants pour son anniversaire
    
