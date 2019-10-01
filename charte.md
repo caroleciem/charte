@@ -11,3 +11,5 @@
 
 ## Bienveillance
 
+- Je ne râle pas quand j'ai des conflits
+
