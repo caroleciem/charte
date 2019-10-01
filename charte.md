@@ -13,11 +13,11 @@
 
 ## Communication
 
-
-## Communication
+- si j'arrive en retard je préviens dans le discord
 - si je suis en difficulté sur un sujet j'alerte au plus vite l'équipe pédagogique ou les co-apprenants
 - J'essaie de répondre à toutes les questions mais pas forcément sur place
 - Je n'hesite jamais à poser une question
+
 
 ## Bienveillance
 
