@@ -1,0 +1,2 @@
+- Respecter les temps de pause
+- Arriver à l'heure
