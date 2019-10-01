@@ -5,6 +5,7 @@
 - On arrive 5 minutes avant le démarrage
 - On prévient si retard
 - Le smartphone en mode silencieux
+- En cas de problème de transport, je suis le cours de la journée via Discord
 
 ## Communication
 
@@ -15,3 +16,5 @@
 - Le premier arrivé prépare le café et le thé
 - J'assiste autant que faire ce peut mes co-apprenants
 - Je partage mes acquis avec les autres membres sans jugement 
+- On apport les croissants pour son anniversaire
+   
