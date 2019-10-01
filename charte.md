@@ -9,10 +9,13 @@
 
 ## Communication
 - si je suis en difficulté sur un sujet j'alerte au plus vite l'équipe pédagogique ou les co-apprenants
-
+- J'essaie de répondre à toutes les questions mais pas forcément sur place
 
 ## Bienveillance
 
 - Le premier arrivé prépare le café et le thé
 - On apport les croissants pour son anniversaire
    
+## Reconnaissance
+
+- je suis reconnaissant quand on me demande de réexpliquer quelque chose
