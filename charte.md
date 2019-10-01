@@ -16,6 +16,7 @@
 
 ## Bienveillance
 
+- Il n'y a pas de mauvaise question !
 - Le premier arrivé prépare le café et le thé
 - J'assiste autant que faire ce peut mes co-apprenants
 - Je partage mes acquis avec les autres membres sans jugement 
