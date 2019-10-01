@@ -4,6 +4,7 @@
 
 - On arrive 5 minutes avant le démarrage
 - On prévient si retard
+- Respecter les horaires
 - Respecter les temps de pause
 - Arriver à l'heure
 - Le smartphone en mode silencieux
@@ -25,6 +26,7 @@
 ## Bienveillance
 
 - Je ne râle pas quand j'ai des conflits
+- Privilégier l'entraide dans le travail
 - Il n'y a pas de mauvaise question !
 - Le premier arrivé prépare le café et le thé
 - J'assiste autant que faire ce peut mes co-apprenants
