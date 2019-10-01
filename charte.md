@@ -2,7 +2,7 @@
 
 ## Respect
 
-
+- On arrive 5 minutes avant le démarrage
 
 ## Communication
 
