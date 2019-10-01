@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-- Respecter les temps de pause
-- Arriver à l'heure
-=======
 # La charte de bonne conduite de la promo BNP - Renault
 
 ## Respect
@@ -10,6 +6,8 @@
 - On prévient si retard
 - Respecter les temps de pause
 - Arriver à l'heure
+- Le smartphone en mode silencieux
+
 
 ## Communication
 
@@ -17,4 +15,4 @@
 
 ## Bienveillance
 
->>>>>>> f7195a36a08c0b6cabddfdeb4968db5782ebdb81
+- Le premier arrivé prépare le café et le thé
