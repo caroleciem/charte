@@ -1,3 +1,4 @@
+
 # La charte de bonne conduite de la promo BNP - Renault
 
 ## Respect
@@ -10,14 +11,19 @@
 - Respecter le rythme d'apprentissage
 - Respect des pauses
 - En cas de problème de transport, je suis le cours de la journée via Discord
+- je traite mes coequipeiers avec respect et bienveillance
+- on est solidaire
 
 
 ## Communication
 
+
+- si j'arrive en retard je préviens dans le discord
 - si je suis en difficulté sur un sujet j'alerte au plus vite l'équipe pédagogique ou les co-apprenants
 - En cas de problème de transport, je suis le cours de la journée via Discord
 - J'essaie de répondre à toutes les questions mais pas forcément sur place
 - Je n'hesite jamais à poser une question
+
 
 
 ## Bienveillance
